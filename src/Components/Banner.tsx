@@ -1,6 +1,15 @@
 function Banner() {
-    return <div> Underground Electronic releases</div>;
+    return (
+    <>
+    <div class="Banner"> 
+         <p>   Underground Electronic releases </p>
+        
+    </div>;
+    </>
+    );
+
 }
+
 
 
 export default Banner;
