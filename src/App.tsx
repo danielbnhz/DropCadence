@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import './Components/Header.tsx'
-import './Components/Banner.tsx'
+import Header from './Components/Header.tsx'
+import Banner from './Components/Banner.tsx'
 import './App.css'
 
 function App() {

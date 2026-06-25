@@ -1,6 +1,6 @@
 function Header() {
 
-    return <header> Drop Cadence </header>;
+    return <header class="Header"> Drop Cadence </header>;
 }
 
 

@@ -1,0 +1,14 @@
+/*     color palette white, (0, 47, 255), azure
+
+
+*/
+
+body {
+    margin:0;
+}
+
+
+.Header {
+    background-color: rgba(0, 47, 255, 0.563);
+    color: azure;
+}
