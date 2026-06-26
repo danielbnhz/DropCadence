@@ -1,7 +1,7 @@
 function Banner() {
     return (
     <>
-    <div class="Banner"> 
+    <div className="Banner"> 
          <p>   Underground Electronic releases </p>
         
     </div>;
